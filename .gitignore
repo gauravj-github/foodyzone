@@ -1,0 +1,21 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled files
+*.log
+*.zip
+*.rar
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment files
+.env
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore dependencies installed via npm
+package-lock.json
+
