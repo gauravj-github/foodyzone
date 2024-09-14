@@ -18,14 +18,6 @@ This is a simple React application that demonstrates how to make API calls to a 
 - **Axios**: For making HTTP requests
 - **JavaScript ES6**: Modern JavaScript features
 
-## API
-
-The project fetches data from an external API. You can modify the API endpoint based on the project requirements.
-
-For example:
-- [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) (For testing)
-- [OpenWeatherMap API](https://openweathermap.org/api) (For weather data)
-- [Your Custom API]
 
 ## Installation
 - react vite
